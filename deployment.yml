@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: 2048
-        image: fadocker123/2048:latest
+        image: fadocker123/1234:latest
         ports:
         - containerPort: 3000   # Use port 3000
 
